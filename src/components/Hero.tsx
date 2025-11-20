@@ -66,7 +66,7 @@ const Hero = () => {
             transition={{ delay: 0.6, duration: 0.6 }}
             className="flex flex-col sm:flex-row gap-4 justify-center items-center"
           >
-          <a href="../../public/Ebrahim-Mamdouh-tahaCV.pdf" download target="_blank" rel="noopener noreferrer">
+          <a href="../../public/Frontend_Ebrahim_Mamdouh-CV.pdf" download target="_blank" rel="noopener noreferrer">
   <Button 
     size="lg" 
     variant="gradient"
